@@ -1,3 +1,33 @@
 .header-navbar {
-  background-color: #ff9100;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(255, 197, 61) 0%,
+    rgb(255, 94, 7) 90%
+  );
+}
+
+.spinning-cog {
+  height: 2.5vh;
+  width: 2.5vh;
+}
+
+@font-face {
+  font-family: GeoSteam;
+  src: url(../fonts/Geosteam-eJap.ttf);
+}
+
+@font-face {
+  font-family: IronMan;
+  src: url(../fonts/IronManOfWar001CNcv-9W7K.ttf);
+}
+
+.logo-text {
+  font-family: GeoSteam;
+  font-size: 2vh;
+}
+
+.header-link {
+  font-family: IronMan;
+  font-size: 2.5vh;
+  color: black;
 }
