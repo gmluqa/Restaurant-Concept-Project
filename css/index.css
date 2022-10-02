@@ -18,3 +18,13 @@
   font-size: 20px;
   font-weight: bold;
 }
+
+.gallery {
+  background-color: red;
+  width: 100vw;
+  height: 75vh;
+}
+
+.gallery-img {
+  width: 100%;
+}
