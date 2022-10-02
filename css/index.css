@@ -7,3 +7,14 @@
   margin-top: 5vh;
   margin-bottom: 5vh;
 }
+
+.menu-promo {
+  background-image: url("../img/rusty-background.jpg");
+  width: 100vw;
+  height: 35vh;
+}
+
+.actual-promo-text {
+  font-size: 20px;
+  font-weight: bold;
+}
