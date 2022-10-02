@@ -32,9 +32,7 @@
   color: black;
 }
 
-hr.type_6 {
-  border: 0;
-  height: 55px;
-  background-image: url(image/type_6.png);
-  background-repeat: no-repeat;
+.social-media-icon {
+  height: 5vh;
+  width: 5vh;
 }

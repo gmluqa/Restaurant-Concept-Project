@@ -1,30 +1,35 @@
+.main {
+  background-color: #c6d4dc;
+}
+
 .banner {
   height: 65vh;
 }
 
 .slogan {
   font-family: GeoSteam;
-  margin-top: 5vh;
-  margin-bottom: 5vh;
+  margin-top: 5%;
+  margin-bottom: 2.5%;
+  color: rgb(74, 69, 64);
 }
 
 .menu-promo {
   background-image: url("../img/rusty-background.jpg");
-  width: 100vw;
+  width: auto;
   height: 35vh;
 }
 
 .actual-promo-text {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
-}
-
-.gallery {
-  background-color: red;
-  width: 100vw;
-  height: 75vh;
 }
 
 .gallery-img {
   width: 100%;
+}
+
+.footer {
+  background-color: rgb(118, 116, 116);
+  width: 100%;
+  height: auto;
 }
