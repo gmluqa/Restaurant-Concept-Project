@@ -36,3 +36,26 @@
   height: 5vh;
   width: 5vh;
 }
+
+.footer {
+  background: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+
+  width: 100%;
+  height: auto;
+}
+
+div > a {
+  color: black;
+}
+
+div > a:hover {
+  color: orange;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}

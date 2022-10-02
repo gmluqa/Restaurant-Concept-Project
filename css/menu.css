@@ -2,3 +2,19 @@
   height: 10vh;
   width: 10vw;
 }
+
+.footer {
+  margin-top: 15vh;
+}
+
+.footer {
+  height: 30vh;
+}
+
+.footer-container {
+  background: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+}
+
+body {
+  background-image: url("../img/steel-background-pattern-2.jpg");
+}

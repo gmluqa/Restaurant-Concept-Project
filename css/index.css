@@ -16,7 +16,8 @@
 .menu-promo {
   background-image: url("../img/rusty-background.jpg");
   width: auto;
-  height: 35vh;
+  min-height: 40vh;
+  max-height: 10vh;
 }
 
 .actual-promo-text {
@@ -26,10 +27,4 @@
 
 .gallery-img {
   width: 100%;
-}
-
-.footer {
-  background-color: rgb(118, 116, 116);
-  width: 100%;
-  height: auto;
 }
