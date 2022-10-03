@@ -20,6 +20,6 @@ Mostly pure Bootstrap 5.2. I learned about how the grid/container layout system 
 
 ## Credits 🎥
 
-Copyright gmluqa 2022 (c). License in project folder.
+Copyright gmluqa 2022 (c). License in project folder (may be subject to change).
 
 Github: gmluqa
