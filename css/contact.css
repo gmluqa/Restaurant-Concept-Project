@@ -8,7 +8,7 @@
   color: white;
   text-emphasis: 100%;
   font-family: GeoSteam;
-  font-size: 62px;
+  font-size: max(10vw, 20px);
   margin-top: 5%;
 }
 
