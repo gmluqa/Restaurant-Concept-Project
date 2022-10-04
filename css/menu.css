@@ -8,12 +8,12 @@
 }
 
 .footer {
-  height: auto;
+  min-height: 35vh;
 }
 
-.footer-container {
+/* .footer-container {
   background: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
-}
+} */
 
 body {
   background-image: url("../img/steel-background-pattern-2.jpg");
