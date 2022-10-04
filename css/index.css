@@ -3,7 +3,8 @@
 }
 
 .banner {
-  height: 65vh;
+  height: auto;
+  margin-left: 12.25%;
 }
 
 .slogan {
